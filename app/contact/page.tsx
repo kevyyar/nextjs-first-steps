@@ -1,3 +1,10 @@
+import { Metadata } from "next";
+
+export const metadata: Metadata = {
+  title: "SEO Contact Title",
+  description: "SEO Contact Description",
+};
+
 export default function ContactPage() {
   return (
     <>
