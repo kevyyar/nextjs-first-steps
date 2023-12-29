@@ -1,0 +1,7 @@
+.link {
+  @apply hover:underline hover:text-blue-900 transition-all ease-in-out;
+}
+
+.active-link {
+  @apply font-black text-yellow-300;
+}
